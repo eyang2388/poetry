@@ -15,4 +15,5 @@ From my books surcease of sorrow
 
 add more notes
 And the silken sad uncertain rustling of each purple curtain
-Thrilled me 
+Thrilled me
+so that now to still the beating of my heart 
