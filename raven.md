@@ -14,4 +14,8 @@ I wished the marrow
 From my books surcease of sorrow
 
 add more notes
+<<<<<<< HEAD
 add more line here
+=======
+add another line
+>>>>>>> fedff3ec05969d0b32b351109b2722888d8e7e88
