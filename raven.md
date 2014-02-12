@@ -14,6 +14,14 @@ I wished the marrow
 From my books surcease of sorrow
 
 add more notes
+<<<<<<< HEAD
 And the silken sad uncertain rustling of each purple curtain
 Thrilled me
 so that now to still the beating of my heart 
+=======
+<<<<<<< HEAD
+add more line here
+=======
+add another line
+>>>>>>> fedff3ec05969d0b32b351109b2722888d8e7e88
+>>>>>>> master
